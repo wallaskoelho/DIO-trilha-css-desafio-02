@@ -12,7 +12,7 @@ Seja criativo(a) e dê a sua identidade para o Projeto. Lembre-se que para um(a)
 
 Aqui deixamos o link do Design no Figma apresentado pela Expert durante o Desafio para que você o tenha como referência:
 
-[![Desafio de Flexbox](https://img.shields.io/badge/figma-000?style=for-the-badge&logo=figma&logoColor=30A3DC)](https://www.figma.com/file/lrRWUZPKnqMDZrSDJmZxUS/Desafio-de-Flexbox---DIO?node-id=0%3A1)
+[![Desafio de Flexbox]()](https://www.figma.com/file/lrRWUZPKnqMDZrSDJmZxUS/Desafio-de-Flexbox---DIO?node-id=0%3A1)
  
  
 Bons estudos
